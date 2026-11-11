@@ -1,3 +1,6 @@
+function nota(){
+
+
 let nota1tri;
 let nota2tri;
 let resultado;
@@ -11,4 +14,6 @@ if(resultado <= 0){
     alert("Parabens! Você ja foi aprovado por nota!!!");
 } else {
     alert("Poxa, você ainda precisa de " + resultado + "para ser aprovado.");
+}
+
 }
